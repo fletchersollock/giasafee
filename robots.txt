@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sealasucu.arlasartstudio.com/sitemap.xml
